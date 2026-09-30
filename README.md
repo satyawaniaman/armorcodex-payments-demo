@@ -42,16 +42,4 @@ Expected:
 - `docs/screenshots/03-policy-deny-block.png` – policy deny on `.env` + test failure diagnosis.
 - `docs/screenshots/04-dashboard-intent-plans.png` – 12 plans / 58% on-plan / 5 blocked (name redacted).
 
-## Video
-
-- Final cut (≤2 min): [TODO – add link]
-- Raw screen recording (`screen-recording.mov`, 108s): [TODO – add link / release asset]
-- The 1.3 GB `video-main.mp4` talking-head master is not pushed (GitHub 100 MB limit) – upload to YouTube/Loom and link here.
-
-## Notes
-
-- Contest participant setup; ArmorCodex is built by ArmorIQ.
-- `.env` values are fake. Do not use real secrets.
-- `KNOWN_FAILURES.md` is intentionally empty on `main` so the agent can append during the demo.
-
 *Not financial advice. Developer tool demo.*
